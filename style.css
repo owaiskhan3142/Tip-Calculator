@@ -1,0 +1,28 @@
+#container{
+    height: 525px;
+    text-align: center;
+  width: 360px;
+  margin: 100px auto;
+  background: #f7f7f7;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+}
+body{
+    background-color: brown;
+}
+#calcu-btn{
+    background-color: chartreuse;
+}
+h1{
+    background: black;
+    color: blanchedalmond;
+    margin: 0;
+  padding: 10px 100px;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: normal;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
